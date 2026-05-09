@@ -2,7 +2,7 @@
 
 # Pablo Angelo Cruz
 
-**Information Systems Graduate · Full-Stack Developer**
+**Information Systems Graduate**
 
 [![Location](https://img.shields.io/badge/📍_Bulacan,_Philippines-grey?style=flat-square)](.)
 [![Phone](https://img.shields.io/badge/📞_0938_***_****-grey?style=flat-square)](.)
