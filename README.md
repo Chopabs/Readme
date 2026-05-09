@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/📍_Bulacan,_Philippines-grey?style=flat-square)](.)
 [![Phone](https://img.shields.io/badge/📞_0938_***_****-grey?style=flat-square)](.)
-[![Email](https://img.shields.io/badge/✉_pabacruz2020%40gmail.com-grey?style=flat-square)](mailto:pabacruz2020@gmail.com)
+[![Email](https://img.shields.io/badge/✉_pabacr******%40gmail.com-grey?style=flat-square)](mailto:pabacruz2020@gmail.com)
 
 </div>
 
