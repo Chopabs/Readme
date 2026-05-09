@@ -12,7 +12,7 @@
 
 ---
 
-## 👤 Profile
+## 👤 Professional Summary
 
 Motivated IT fresh graduate with a Bachelor of Science in Information Systems, seeking an entry-level position in software development, QA, or related IT roles. Hands-on experience in full-stack development, object-oriented programming, and database management gained through a government internship and academic projects. A fast learner, team player, and detail-oriented professional committed to delivering quality work and growing within a dynamic organization.
 
